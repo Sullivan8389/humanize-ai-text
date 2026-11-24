@@ -93,3 +93,8 @@ cmake --build build --config Release
 
 ---
 <sub>Indexed tags: humanize-ai-text, paraphrase, gptzero, turnitin, humanizer, ai-detector, cli, developer-tools, open-source, windows, automation, productivity, cpp, portable, prebuilt, tools</sub>
+
+## Keywords
+
+humanizer ai-detector paraphrase gptzero turnitin text-humanizer humanize-ai-text ai-text-humanizer windows portable prebuilt x64 free download
+related: humanizer, ai-detector, paraphrase, gptzero, turnitin
